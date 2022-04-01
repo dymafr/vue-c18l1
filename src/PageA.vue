@@ -6,4 +6,9 @@
 
 <script setup lang="ts"></script>
 
-<style scoped lang="scss"></style>
+<style scoped lang="scss">
+.card {
+  width: 100%;
+  height: 300px;
+}
+</style>
