@@ -157,3 +157,12 @@ body {
     background-color: var(--success-2);
   }
 }
+
+// card
+
+.card {
+  border: var(--border);
+  border-radius: var(--border-radius);
+  background-color: white;
+  padding: 30px;
+}
